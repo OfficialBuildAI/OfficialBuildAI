@@ -1,16 +1,16 @@
-# BuildAI: Decentralized AI on Solana
+# NexusAI: Decentralized AI on Solana
 
-BuildAI is a cutting-edge decentralized platform that bridges artificial intelligence (AI) and blockchain. By leveraging Solana’s high-speed, low-cost infrastructure, BuildAI empowers developers to integrate scalable, reliable, and privacy-preserving AI capabilities into blockchain applications.
+NexusAI is a cutting-edge decentralized platform that bridges artificial intelligence (AI) and blockchain. By leveraging Solana’s high-speed, low-cost infrastructure, NexusAI empowers developers to integrate scalable, reliable, and privacy-preserving AI capabilities into blockchain applications.
 
 ---
 
 ## 🌟 Key Features
 
 ### Decentralized AI Processing
-- BuildAI distributes AI tasks across a decentralized network of nodes to ensure reliability, transparency, and fault tolerance.
+- NexusAI distributes AI tasks across a decentralized network of nodes to ensure reliability, transparency, and fault tolerance.
   
 ### Scalable & Lightweight Architecture
-- Optimized for low-latency and high-throughput environments, BuildAI minimizes computational overhead for developers.
+- Optimized for low-latency and high-throughput environments, NexusAI minimizes computational overhead for developers.
 
 ### Privacy-Preserving AI
 - Advanced techniques such as homomorphic encryption and zero-knowledge proofs ensure data security during computations.
@@ -44,7 +44,7 @@ BuildAI is a cutting-edge decentralized platform that bridges artificial intelli
 
 ## 🛠️ Architecture Overview
 
-BuildAI operates on four core layers:
+NexusAI operates on four core layers:
 
 1. **Application Layer**: Provides APIs and SDKs for seamless developer integration.
 2. **AI Computation Layer**: Decentralized nodes process AI tasks using machine learning models.
@@ -59,3 +59,5 @@ BuildAI operates on four core layers:
 - [Node.js](https://nodejs.org/)
 - Solana CLI
 - [Anchor](https://book.anchor-lang.com/) framework for deploying smart contracts.
+
+
